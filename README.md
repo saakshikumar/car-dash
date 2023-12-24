@@ -1,2 +1,2 @@
 # car-dash
-HTML, CSS, JS
+A car that moves forward, backward even stops and resets using buttons.
