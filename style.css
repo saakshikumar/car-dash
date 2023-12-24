@@ -1,0 +1,29 @@
+body{
+    margin: 0%;
+}
+nav {
+    padding: 5px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(to right, rgba(81, 213, 253, 0.651), rgba(10, 140, 226, 0.619), rgba(76, 226, 249, 0.5),rgba(69, 152, 255, 0.5)), url("");
+}
+div{
+    height: 40px;
+    padding: 10px;
+    padding-right: 60px;
+}
+#car{
+    float: left;
+    height: 50px;
+    margin-top: -10px;
+    position: relative;
+}
+#park{
+    float: right;
+    height: 40px;
+}
+hr{
+    margin-top: -10px;
+    height: 3px;
+    background-color: rgb(99, 101, 103);
+}
